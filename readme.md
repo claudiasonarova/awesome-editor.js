@@ -5,6 +5,7 @@
 > A curated list of awesome Editor.js tools, libraries and resources.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by contributing!
+Some small change.
 
 ## Contents
 
